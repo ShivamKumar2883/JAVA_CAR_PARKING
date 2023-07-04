@@ -10,6 +10,7 @@
  * 
  * RESULT OF EXECUTION: RESULT FILE IS SAVED WITH THE NAME OF "registered_plates.txt"
  * RESULT OF INNOVATION: SIMPLIFYING THE PROGRAM AS FOR THE FORWARD UPDATES WITH SAMPLE FUNCTIONS.
+ ********************* GUI will be IMPLEMET on this TOPIC only STILL UNDER PROGRESS *********************
 */
 
 import java.io.*;
